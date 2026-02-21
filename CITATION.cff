@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: "Your Name"
+    given-names: "Your"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Mumbai Metropolitan Region (MMR) Job Market Guide 2026"
+version: 1.0.0
+date-released: 2026-02-20
